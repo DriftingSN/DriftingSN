@@ -51,11 +51,11 @@
   <summary><b>🇬🇧 English</b></summary>
   <blockquote>
     <p>
-      Hi, I’m <b>Yang Yanhang</b> (the last syllable reads like <i>“hang”</i>). I hold a B.Sc. in Software Engineering from Chiang Mai University (Thailand) and will start the M.Sc. in Information Technology Management at Hong Kong Baptist University in <b>Aug 2025</b>. I focus on the intersection of <b>software engineering × data & AI × product thinking</b>, and I enjoy turning ideas into usable systems.
+      Hi, I’m <b>Yang Yanhang</b>. I hold a B.Sc. in Software Engineering from Chiang Mai University (Thailand) and will start the M.Sc. in Information Technology Management at Hong Kong Baptist University in <b>Aug 2025</b>. I focus on the intersection of <b>software engineering × data & AI × product thinking</b>, and I enjoy turning ideas into usable systems.
     </p>
     <p>
       My undergraduate capstone is <b>Fish Information Detection System</b>
-      <a href="./docs/FIDS.pdf" title="Project PDF">
+      <a href="https://github.com/DriftingSN/DriftingSN/raw/main/1_final%20document.pdf" title="Project PDF">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="18" alt="PDF"/>
       </a>:
       a ResNet34-based vision model with a Django backend, Vue frontend, and MySQL—built for toxicity/abnormality alerts and operational dashboards in aquaculture. I also interned on traffic big-data early warning and digital operations for industrial parks.
@@ -76,11 +76,11 @@
   <summary><b>🇭🇰 繁體中文</b></summary>
   <blockquote>
     <p>
-      大家好，我是 <b>楊顏行</b>（<i>Yang Yanhang</i>，「行」讀 <i>hang</i>）。軟體工程本科畢業於泰國清邁大學，將於 <b>2025 年 8 月</b>入讀香港浸會大學資訊科技管理（ITM）碩士。關注 <b>軟體工程 × 數據與 AI × 產品思維</b> 的交叉，喜歡把想法落成可用的系統。
+      大家好，我是 <b>楊顏行</b>（<i>Yang Yanhang</i>）。軟體工程本科畢業於泰國清邁大學，將於 <b>2025 年 8 月</b>入讀香港浸會大學資訊科技管理（ITM）碩士。關注 <b>軟體工程 × 數據與 AI × 產品思維</b> 的交叉，喜歡把想法落成可用的系統。
     </p>
     <p>
       本科畢業專題為 <b>Fish Information Detection System</b>
-      <a href="./docs/FIDS.pdf" title="專案文件（PDF）">
+      <a href="https://github.com/DriftingSN/DriftingSN/raw/main/1_final%20document.pdf" title="專案文件（PDF）">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="18" alt="PDF"/>
       </a>：
       基於 ResNet34 的影像辨識模型 + Django 後端 + Vue 前端 + MySQL 資料庫，實現水產場景的毒性／異常預警與資訊看板。實習經歷涵蓋交通大數據預警、園區業務與營運數位化。
@@ -101,11 +101,11 @@
   <summary><b>🇯🇵 日本語</b></summary>
   <blockquote>
     <p>
-      はじめまして。<b>楊 顔行</b>（<i>Yang Yanhang</i>、中国語の「行」は <i>hang</i> の読み）です。タイのチェンマイ大学でソフトウェア工学を学び、<b>2025年8月</b>から香港浸会大学の情報テクノロジー・マネジメント（ITM）修士課程に進学予定です。<b>ソフトウェア工学 × データ＆AI × プロダクト思考</b>の交差領域に関心があり、アイデアを「使えるシステム」に落とし込むことが好きです。
+      はじめまして。<b>楊 顔行</b>（<i>Yang Yanhang</i>）です。タイのチェンマイ大学でソフトウェア工学を学び、<b>2025年8月</b>から香港浸会大学の情報テクノロジー・マネジメント（ITM）修士課程に進学予定です。<b>ソフトウェア工学 × データ＆AI × プロダクト思考</b>の交差領域に関心があり、アイデアを「使えるシステム」に落とし込むことが好きです。
     </p>
     <p>
       学部の卒業プロジェクトは <b>Fish Information Detection System</b>
-      <a href="./docs/FIDS.pdf" title="プロジェクトPDF">
+      <a href="https://github.com/DriftingSN/DriftingSN/raw/main/1_final%20document.pdf" title="プロジェクトPDF">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="18" alt="PDF"/>
       </a>。
       ResNet34 に基づく画像認識モデル、Django バックエンド、Vue フロントエンド、MySQL を組み合わせ、水産領域での毒性・異常アラートと運用ダッシュボードを実装しました。インターンでは交通ビッグデータの早期警戒や、産業パークの業務・オペレーションのデジタル化に取り組みました。
